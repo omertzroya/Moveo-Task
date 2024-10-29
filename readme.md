@@ -7,23 +7,17 @@ JaMoveo is a real-time web application for musical rehearsals, enabling band mem
 ### Frontend
 - React.js
 - Tailwind CSS
-- Lucide React (for icons)
-- Socket.io-client
-- React Router DOM
-- Axios
-
 ### Backend
 - Node.js
 - Express.js
 - MongoDB
-- Socket.io
 
 ## Getting Started 🚀
 
 ### Prerequisites
-- Node.js (v14 or higher)
+- Node.js
 - MongoDB
-- npm or yarn
+- npm 
 
 ### Installation
 
