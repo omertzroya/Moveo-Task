@@ -27,12 +27,6 @@ JaMoveo is a real-time web application for musical rehearsals, enabling band mem
 
 ### Installation
 
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/jamoveo.git
-cd jamoveo
-```
-
 2. **Install dependencies**
 ```bash
 # Install frontend dependencies
